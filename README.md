@@ -20,7 +20,7 @@ To test the web service:
 6. PUT is used to update a record in the resource. For this, use the specific URL you want to update (Ex:http://localhost:8080/careerskillsandoptions/1)
 7. DELETE is used for deleting a specific resource.
 
-Note: This setup can be used as a backend for multiple mobile/wen clients.
+Note: This setup can be used as a backend for multiple mobile/web clients.
 
 
 
