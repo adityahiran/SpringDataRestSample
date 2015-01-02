@@ -2,6 +2,7 @@ SpringDataRestSample
 ====================
 
 Sample web application using Spring Data Rest for having a Restful web service.
+Technologies Used: Spring Data REST; Spring Boot; JPA; MySQL; Gradle. 
 
 To run the Application:
 1. Have gradle installed with the Path environment variable set.
