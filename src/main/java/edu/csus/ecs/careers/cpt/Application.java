@@ -33,7 +33,7 @@ import edu.csus.ecs.careers.cpt.repositories.CareerSkillsAndOptionsRepo;
 //find any Controllers or other components that are part of our applciation.
 //Any class in this package that is annotated with @Controller is going to be
 //automatically discovered and connected to the DispatcherServlet.
-@ComponentScan(basePackageClasses={CareerSkillsAndOptionsRepo.class, CareerSkillsAndOptions.class, HelloWorldController.class})
+@ComponentScan(basePackageClasses={CareerSkillsAndOptionsRepo.class, CareerSkillsAndOptions.class, HelloWorldController.class, CPTFilter.class})
 public class Application extends RepositoryRestMvcConfiguration {
 
   public static void main(String[] args) throws Exception {
