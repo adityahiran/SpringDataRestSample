@@ -6,11 +6,12 @@ Technologies Used: Spring Data REST; Spring Boot; JPA; MySQL; Gradle.
 
 To run the Application:
 1. Have gradle installed with the Path environment variable set.
-2. Download zip file from https://github.com/adityahiran/SpringDataRestSample
-3. Extract.
-4. Open command line and go to the project's root directory.
-5. gradle build.
-6. gradle run.
+2. Have MySQL installed with a table called careerskillsandoptions: int id (Auto generated), String skills
+3. Download zip file from https://github.com/adityahiran/SpringDataRestSample
+4. Extract.
+5. Open command line and go to the project's root directory.
+6. gradle build.
+7. gradle run.
 
 To test the web service:
 1. Run the application.
